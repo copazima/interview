@@ -1,5 +1,5 @@
 # 📚 기술 면접 저장소
-- [Java](https://github.com/copazima/interview/java)
+- [Java](https://github.com/copazima/interview/tree/main/java)
 - Spring
 - 데이터베이스
 - 자료구조 / 알고리즘
