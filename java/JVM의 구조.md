@@ -1,4 +1,5 @@
-이 글은 Jbee님이 쓴 [JVM 포스트](https://asfirstalways.tistory.com/158)를 그대로 가져와서 조금만 수정했습니다. 링크 걸어둔 글을 꼭 읽어보시길...
+이 글은 Jbee님이 쓴 [JVM 포스트](https://asfirstalways.tistory.com/158)를 그대로 가져와서 조금만 수정했습니다. 그냥 바로 원문을 읽는 것도 좋을 것 같네요.
+
 
 # Java Virtual Machine
 
