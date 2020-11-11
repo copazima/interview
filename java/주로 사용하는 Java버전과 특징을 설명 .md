@@ -11,7 +11,7 @@ __참고: 1.8은 32비트 지원 마지막 공식버전/ 썬이 오라클로 인
  __stream api:__  컬렉션,  배열등의 저장 요소를 하나씩 참조해서 람다식을 적용해서 반복적으로 처리할 수있도록 해주는 기능입니다.  <br>
  __interface default method:__  자바 1.8에서는 기본 메서드란 개념이 추가되어 하위호환성 문제없이인터페이스에 새로운 메서드를 추가할 수 있게 되었습니다.  <br>
  __날짜와 시간 API의 다양화:__  불변객체로 사용하지 못하고 일관성 없는 요일 상수의 특성을 가지고 있던기존의 Date API가 다양화 되어 LocalDate, Localtime등 여러 개로 분화됐습니다. <br>
-+ __GC(가비지 컬렉터)의 성능 개선:__   Java7  까지는  new / survive / old/ perm/ native로 메모리영역을구분했습니다. <br>
+ __GC(가비지 컬렉터)의 성능 개선:__   Java7  까지는  new / survive / old/ perm/ native로 메모리영역을구분했습니다. <br>
 java 8에서는 new / survive / old / metaspace 로 아키텍쳐가 변경되었고 기존의perm에 저장되어 문제를 유발하던 static obect는 heap으로 옮겨서 GC 대상이 최대한 될 수 있도록 변경되었습니다. <br>  <br>
 추후에도 수정이 될 가능성이 적어 보이는 정보는 Native(Metaspace) 로 넣고 사이즈는자동적으로 조정되도록 1.8부터 개선되었습니다.  <br>
 
