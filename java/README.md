@@ -1,0 +1,18 @@
+# Java
+
+1. [Java의 특징](https://github.com/copazima/interview/blob/main/java/%EC%9E%90%EB%B0%94%EC%9D%98%20%ED%8A%B9%EC%A7%95.md)
+2. [컴파일형 언어와 인터프리터 방식 언어의 차이](https://github.com/copazima/interview/blob/main/java/%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EC%96%B8%EC%96%B4%EC%99%80%20%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0%20%EC%96%B8%EC%96%B4.md)
+3. [Java언어가 지금까지 많이 쓰이게 된 배경은?](https://github.com/copazima/interview/blob/main/java/%EC%9E%90%EB%B0%94%EA%B0%80%20%EC%A7%80%EA%B8%88%EA%B9%8C%EC%A7%80%20%EB%A7%8E%EC%9D%B4%20%EC%93%B0%EC%9D%B4%EA%B2%8C%20%EB%90%9C%20%EB%B0%B0%EA%B2%BD.md)
+4. [Java의 미래](https://github.com/copazima/interview/blob/main/java/%EC%9E%90%EB%B0%94%EC%9D%98%20%EB%AF%B8%EB%9E%98.md)
+5. [Java 버전별 특징](https://github.com/copazima/interview/blob/main/java/Java%20%EC%B5%9C%EC%8B%A0%EB%B2%84%EC%A0%84%EC%9D%98%20%ED%8A%B9%EC%A7%95%20%EC%84%A4%EB%AA%85.md)
+6. [Java최신 버전 특징](https://github.com/copazima/interview/blob/main/java/Java%20%EC%B5%9C%EC%8B%A0%EB%B2%84%EC%A0%84%EC%9D%98%20%ED%8A%B9%EC%A7%95%20%EC%84%A4%EB%AA%85.md)
+7. [Java와 유사하거나 JVM을 이용하는 언어 중 아는 것](https://github.com/copazima/interview/blob/main/java/%EC%9E%90%EB%B0%94%EC%99%80%20%EC%9C%A0%EC%82%AC%ED%95%98%EA%B1%B0%EB%82%98%20JVM%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%96%B8%EC%96%B4.md)
+8. [자바 프로그램 실행 과정](https://github.com/copazima/interview/blob/main/java/%EC%9E%90%EB%B0%94%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%8B%A4%ED%96%89%EA%B3%BC%EC%A0%95.md)
+9. [JVM의 구조](https://github.com/copazima/interview/blob/main/java/JVM%EC%9D%98%20%EA%B5%AC%EC%A1%B0.md)
+10. [Call by value와 Call by reference](https://github.com/copazima/interview/blob/main/java/Call%20By%20Value%EC%99%80%20Call%20By%20Reference.md)
+11. [C언어의 포인터와 Java의 레퍼런스](https://github.com/copazima/interview/blob/main/java/C%EC%9D%98%20Pointer%EC%99%80%20Java%EC%9D%98%20Reference%EC%B0%A8%EC%9D%B4.md)
+12. [포인터를 이용하는 이유](https://github.com/copazima/interview/blob/main/java/%ED%8F%AC%EC%9D%B8%ED%84%B0%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
+13. [객체지향형 언어](https://github.com/copazima/interview/blob/main/java/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%96%B8%EC%96%B4.md)
+14. [함수라는 것에 대해서](https://github.com/copazima/interview/blob/main/java/%ED%95%A8%EC%88%98%EB%9E%80%3F.md)
+15. [상속의 장점과 단점에 대해서 설명하세요](https://github.com/copazima/interview/blob/main/java/%EC%83%81%EC%86%8D%EC%9D%98%20%EC%9E%A5%EC%A0%90%EA%B3%BC%20%EB%8B%A8%EC%A0%90%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C%20%EC%84%A4%EB%AA%85%ED%95%98%EC%84%B8%EC%9A%94.md)
+16. [추상클래스와 인터페이스 비교](https://github.com/copazima/interview/blob/main/java/%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
