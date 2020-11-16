@@ -18,5 +18,4 @@ public class RecursiveCall{
 }
 
 ```
-
 * 참고 블로그: [https://lktprogrammer.tistory.com/106]
