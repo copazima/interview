@@ -4,6 +4,7 @@
 - 데이터베이스
 - [자료구조 / 알고리즘](https://github.com/copazima/interview/tree/main/Data%20Structure)
 - 객체지향
+- [디자인 패턴](https://github.com/copazima/interview/tree/main/design_pattern)
 - 네트워크
 - SQL인잭션
 - 서버 운영
