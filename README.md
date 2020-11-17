@@ -2,7 +2,7 @@
 - [Java](https://github.com/copazima/interview/tree/main/java)
 - Spring
 - 데이터베이스
-- 자료구조 / 알고리즘
+- [자료구조 / 알고리즘](https://github.com/copazima/interview/tree/main/Data%20Structure)
 - 객체지향
 - 네트워크
 - SQL인잭션
