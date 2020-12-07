@@ -5,7 +5,7 @@
 - [자료구조 / 알고리즘](https://github.com/copazima/interview/tree/main/Data%20Structure)
 - 객체지향
 - [디자인 패턴](https://github.com/copazima/interview/tree/main/design_pattern)
-- 네트워크
+- [네트워크](https://github.com/copazima/interview/tree/main/network)
 - SQL인잭션
 - 서버 운영
 - HTML / CSS
@@ -20,4 +20,4 @@
 
 [백엔드 개발자 면접 준비하는 공간](https://github.com/Conatuseus/tech-interview-for-developer)
 
-[tech interview](https://github.com/WeareSoft/tech-interview)
+[tech interview](https://github.com/WeareSoft/tech-interview)](https://github.com/WeareSoft/tech-interview)
