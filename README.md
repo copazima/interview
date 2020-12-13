@@ -20,4 +20,6 @@
 
 [백엔드 개발자 면접 준비하는 공간](https://github.com/Conatuseus/tech-interview-for-developer)
 
-[tech interview](https://github.com/WeareSoft/tech-interview)](https://github.com/WeareSoft/tech-interview)
+[tech interview](https://github.com/WeareSoft/tech-interview)
+
+[주니어 개발자 채용 정보](https://github.com/jojoldu/junior-recruit-scheduler)
