@@ -3,7 +3,6 @@
 - Spring
 - 데이터베이스
 - [자료구조 / 알고리즘](https://github.com/copazima/interview/tree/main/Data%20Structure)
-- 객체지향
 - [디자인 패턴](https://github.com/copazima/interview/tree/main/design_pattern)
 - [네트워크](https://github.com/copazima/interview/tree/main/network)
 - SQL인잭션
@@ -11,6 +10,12 @@
 - HTML / CSS
 - JavaScript
 - Ajax
+
+
+
+### [객체 지향 프로그래밍이란?](https://github.com/copazima/interview/blob/main/OOP.md)
+
+
 
 **참고할 기술면접 저장소**
 
