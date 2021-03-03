@@ -23,7 +23,7 @@ CI를 자동화했을 때 얻는 이점은 크게 세 가지인 것 같다.
 
 **CD**는 **지속적인 전달**과 **지속적인 배포** 두 가지를 뜻한다. CI를 거쳐 **통합된 프로젝트를 프로덕션 환경으로 이동시키고(Delivery) 배포(Deploy)하는 것**을 말한다. 이 과정을 AWS에서 제공하는 CD서비스인 `CodeDeploy` 와 `Nginx`의 리버스 프록시 기능을 이용하여 중단 없는 배포 환경을 구성할 수 있다.
 
-[##_Image|kage@wYKfv/btqYfXdSOsN/r3n7k6yzu97CAX1Uth2oEK/img.png|alignCenter|data-origin-width="666" data-origin-height="334" data-filename="recipeya.site_structure.png" data-ke-mobilestyle="widthContent"|CI/CD를 적용한 프로젝트 구조||_##]
+![architecture](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FwYKfv%2FbtqYfXdSOsN%2Fr3n7k6yzu97CAX1Uth2oEK%2Fimg.png)
 
 프로젝트에 CI/CD를 적용했을 때 구조는 이렇다. 위 프로젝트에 대입하여 CI/CD를 설명해보자면 이렇다.
 

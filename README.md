@@ -15,7 +15,7 @@
 
 ### [객체 지향 프로그래밍이란?](https://github.com/copazima/interview/blob/main/OOP.md)
 
-### [CI/CD란?](https://github.com/copazima/interview/blob/main/CI-CDmd)
+### [CI/CD란?](https://github.com/copazima/interview/blob/main/CI-CD.md)
 
 
 
