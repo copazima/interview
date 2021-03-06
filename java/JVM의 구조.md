@@ -38,6 +38,8 @@
 
  ### Garbage Collector
  - 추가 예정
+ - [다정21.3.6추가]
+ - 가비지는 '정리되지 않은 메모리', '유효하지 않은 메모리 주소'를 말한다.가비지는 메모리가 부족할 때 이런 가비지들을 메모리에서 해제 시켜 다른 용도로 사용 할 수 있게 해주는 프로그램을 말한다.C++와 같은 다른 언어에서는 사용하지 않을 객체의 메모리를 직접 해제해주어야 하지만 자바는 GC가 잡아주니 개발자 입장에서는 편리하다.
 
  ## Runtime Data Area
 프로그램을 사용하기 위해 OS에서 할당 받은 공간이다.
@@ -91,3 +93,6 @@ https://asfirstalways.tistory.com/158
 https://asfirstalways.tistory.com/159
 
 https://d2.naver.com/helloworld/1329
+
+**가비지 컬렉터와 동작원리**
+https://velog.io/@litien/%EA%B0%80%EB%B9%84%EC%A7%80-%EC%BB%AC%EB%A0%89%ED%84%B0GC
