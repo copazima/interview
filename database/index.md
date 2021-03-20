@@ -95,8 +95,11 @@ B-TREE INDEX의 종류
 
 
 
-권순용의 DB 이야기 : 인덱스 종류 이해[http://www.gurubee.net/expert/kwontra]  
+> 권순용의 DB 이야기 : 인덱스 종류 이해[http://www.gurubee.net/expert/kwontra]  
 권순용의 DB 이야기: 함수형 인덱스: [https://www.kdata.or.kr/info/info_04_view.html?field=title&keyword=%B1%C7%BC%F8%BF%EB%C0%C7%20DB%20%C0%CC%BE%DF%B1%E2&type=techreport&page=1&dbnum=188802&mode=detail&type=techreport]  
 결합인덱스: [https://lee-mandu.tistory.com/483]  
 인덱스 주의 사항: [https://choko11.tistory.com/entry/%EC%9D%B8%EB%8D%B1%EC%8A%A4-1-%EA%B0%9C%EB%85%90%EC%A2%85%EB%A5%98%EC%A3%BC%EC%9D%98%EC%82%AC%ED%95%AD]  
 인덱스 상세 쿼리문: [https://rongscodinghistory.tistory.com/113]  
+
+작성자: 다정  
+작성일: 21.03.20
