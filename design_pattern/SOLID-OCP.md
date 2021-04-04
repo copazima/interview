@@ -13,11 +13,11 @@
 
 
 ## 적용사례  
-* **OCP 적용 전**
+* **OCP 적용 전**  
 ![OCP](https://www.nextree.co.kr/content/images/2021/01/ocp_before-e1400596091419.png)
 
 
-* **OCP 적용 후** 
+* **OCP 적용 후**  
 ![OCP](https://www.nextree.co.kr/content/images/2021/01/ocp_after-e1400596262977.png)  
 Guitar와 추가될 다른 악기들을 추상화하는 작업을 진행한다.  
 추가될 악기들의 공통 속성을 담을 수 있는 StringInstrument 인터페이스를 생성해 이것이 모든 악기들을 대표하게 한다.
