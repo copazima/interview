@@ -22,7 +22,7 @@
 
 
 ## 적용사례  
-![ex](https://github.com/copazima/interview/blob/main/resource/interface_1.PNG?raw=true){: width="400" height="550"}
+<img src="https://github.com/copazima/interview/blob/main/resource/interface_1.PNG?raw=true" width="400" height="550">
 
 ```
 interface Animal{
@@ -56,7 +56,7 @@ class Bird implements Animal {
 
 ---
 
-![ex2](https://github.com/copazima/interview/blob/main/resource/interface_2.PNG?raw=true)
+<img src="https://github.com/copazima/interview/blob/main/resource/interface_2.PNG?raw=true" width="400" height="450">
 
 ```
 interface Animal{ //종 상관없이 동물이면 모두 할 수 있는 기능
