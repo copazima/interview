@@ -67,7 +67,7 @@ public void pay(@RequestBody CardPaymentDto.PaymentRequest req){
 
 ---
 
-* DIP 준수 한 코드 
+* DIP 준수 한 코드  
 ![DIP](https://i.imgur.com/TdGYl8n.png)  
 
 - 상위 모듈(카드 결제)은 하위 모듈(신한 카드 결제)의 구현에 의존해서는 안 된다. 하위의 모듈(신한 카드 결제)이 상위 모듈(카드 결제)에 정의한 추상 타입(인터페이스)에 의존해야 한다. 
